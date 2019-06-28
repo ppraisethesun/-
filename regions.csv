@@ -1,9 +1,9 @@
 1, Севастополь, Sevastopol
 2, Санкт-Петербург, Saint Petersburg
 3, Москва, Moscow
-4, Ингушетия, Ingushetia\, Republic of
-5, Адыгея, Adygea\, Republic of
-6, Северная Осетия — Алания, North Ossetia-Alania\, Republic of
+4, Ингушетия, "Ingushetia, Republic of"
+5, Адыгея, "Adygea, Republic of"
+6, Северная Осетия — Алания, "North Ossetia-Alania, Republic of"
 7, Кабардино-Балкария, Kabardino-Balkar Republic
 8, Карачаево-Черкесия, Karachay-Cherkess Republic
 9, Калининградская область, Kaliningrad Oblast
@@ -14,8 +14,8 @@
 14, Липецкая область, Lipetsk Oblast
 15, Орловская область, Oryol Oblast
 16, Тульская область, Tula Oblast
-17, Крым, Mordovia\, Republic of
-18, Мордовия, Crimea\, Republic of
+17, Крым, "Mordovia, Republic of"
+18, Мордовия, "Crimea, Republic of"
 19, Белгородская область, Belgorod Oblast
 20, Владимирская область, Vladimir Oblast
 21, Калужская область, Kursk Oblast
@@ -31,18 +31,18 @@
 31, Московская область, Astrakhan Oblast
 32, Астраханская область, Moscow Oblast
 33, Смоленская область, Smolensk Oblast
-34, Дагестан, Dagestan\, Republic of
+34, Дагестан, "Dagestan, Republic of"
 35, Воронежская область, Voronezh Oblast
 36, Самарская область, Samara Oblast
 37, Новгородская область, Novgorod Oblast
 38, Псковская область, Pskov Oblast
 39, Костромская область, Kostroma Oblast
-40, Хакасия, Khakassia\, Republic of
+40, Хакасия, "Khakassia, Republic of"
 41, Ставропольский край, Stavropol Krai
-42, Татарстан, Tatarstan\, Republic of
+42, Татарстан, "Tatarstan, Republic of"
 43, Курганская область, Kurgan Oblast
 44, Калмыкия, Krasnodar Krai
-45, Краснодарский край, Kalmykia\, Republic of
+45, Краснодарский край, "Kalmykia, Republic of"
 46, Нижегородская область, Nizhny Novgorod Oblast
 47, Ленинградская область, Tver Oblast
 48, Тверская область, Leningrad Oblast
@@ -56,19 +56,19 @@
 56, Кировская область, Kirov Oblast
 57, Оренбургская область, Orenburg Oblast
 58, Омская область, Omsk Oblast
-59, Башкортостан, Bashkortostan\, Republic of
+59, Башкортостан, "Bashkortostan, Republic of"
 60, Вологодская область, Murmansk Oblast
 61, Мурманская область, Vologda Oblast
 62, Пермский край, Perm Krai
 63, Приморский край, Primorsky Krai
 64, Алтайский край, Altai Krai
 65, Тыва, Tuva Republic
-66, Ненецкий АО, Karelia\, Republic of
+66, Ненецкий АО, "Karelia, Republic of"
 67, Новосибирская область, Nenets Autonomous Okrug
 68, Карелия, Novosibirsk Oblast
 69, Свердловская область, Sverdlovsk Oblast
 70, Томская область, Tomsk Oblast
-71, Бурятия, Buryatia\, Republic of
+71, Бурятия, "Buryatia, Republic of"
 72, Амурская область, Amur Oblast
 73, Коми, Komi Republic
 74, Забайкальский край, Zabaykalsky Krai
